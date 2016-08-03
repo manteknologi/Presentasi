@@ -1,0 +1,831 @@
+/*          Responsive styles
+================================================== */
+
+/*                     Tablet Landscape
+=======================================================================================*/
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+
+/*   2. Header Section                
+============================ */
+.text-small {
+	display:none;
+}
+.btn-small-white {
+    margin-top: 15px;
+}
+
+/*   3. About Section                
+============================ */
+.about-left{
+    margin-top:111px !important;
+    padding-right:0px
+}
+.about-right {
+    width: 633px;
+}
+.about-right img {
+    margin-left: 34px;
+}
+.about-right .about-img_2 {
+    margin-left: 33px;
+	margin-bottom: 20px;
+}
+.about-left .about-more {
+    margin-top: -36px;
+}
+.about-left h3 {
+  font-size: 32px;
+}
+.about-left small {
+    margin-bottom: 16px;
+}
+ 
+/*  4. How Work Section
+============================ */
+.how-work {
+    width: 100%;
+}
+div.bhoechie-tab-menu {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    width: 52.6%;
+    margin-right: -15px;
+}
+.bhoechie-tab-content {
+    padding-right: 74px;
+    padding-left: 74px;
+    height: 685px;
+    padding-top: 119px;
+}
+.list-group-item {
+    padding: 55px 15px;
+}
+
+/*   5. Choose us Section               
+============================ */
+.text-riht h3 {
+    font-size: 36px;
+}
+
+/*   8. Impressed Section                
+============================ */
+section.impres h3 {
+    font-size: 50px;
+}
+
+/*  9. Content Section 
+============================ */
+.content-section {
+    padding-bottom:0px;
+}
+.content-section h4 {
+    margin: 3px 0px;
+}
+.content-section .col-md-6 > a {
+    top: -17px;
+}
+.content-one .col-md-6 > a {
+    top: -31px;
+}
+.content-slider .col-md-6 iframe {
+    width: 455px;
+    height: 303px;
+}
+
+/* 10. Team Section
+============================ */
+.member .info h6 {
+    font-size: 15px;
+	margin-top: 12px;
+}
+.member .info h6 small {
+    margin-top: 8px;
+}
+.member .info p {
+    line-height: 17px;
+    padding: 0px 6px;
+}
+
+/* 12. Testimonial Section              
+============================ */
+.testimonial-left {
+    padding-right: 95px;
+    padding-left: 95px;
+}
+.testimonial-box h4 {
+    font-size: 14px;
+    line-height: 23px;
+}
+
+
+/*  15. Blog Section               
+============================ */
+.blog-section .video-post iframe {
+    width: 100%;
+    height: 162px;
+}
+.input-group-btn {
+    left: -28px;
+}
+/* 18. Footer Section             
+============================ */
+.widget form {
+    width: 75%;
+}
+
+}	
+/*                      Tablet Portrait
+=======================================================================================*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+/*   2. Header Section                
+============================ */
+.navbar-default .navbar-nav > li > a {
+    font-size: 13px;
+}
+.nav > li > a {
+    padding: 11px 0px;
+    margin: 0px 8px;
+}
+.header-right {
+   display:none;
+}
+.navbar .navbar-nav {
+    margin-top: 4px;
+}
+/*   3. About Section                
+============================ */
+.about-left {
+    margin-top: 92px;
+	font-size: 28px;
+}
+.about-left h3 {
+    margin-top: 92px;
+	font-size: 28px;
+}
+.about-right {
+    width: 422px;
+    float: right;
+}
+.about-right img {
+    margin-top: 93px;
+    margin-left: -9px;
+    width: 203px;
+}
+
+/*  4. How Work Section 
+============================ */
+.bhoechie-tab {
+	width: 52%;
+}
+div.bhoechie-tab-menu {
+    padding-right: 0px;
+    padding-left: 0px;
+	margin-top: 0px;
+	width:51%;
+	margin-right: -15px;
+	
+}
+.bhoechie-tab-content {
+    padding-right: 35px;
+    padding-left: 35px;
+    height: 685px;
+    padding-top: 119px;
+}
+.list-group-item {
+    padding: 55px 15px;
+}
+/*   5. Choose us Section               
+============================ */
+.text-riht h3 {
+    font-size: 26px;
+}
+.text-riht small {
+    font-size: 12px;
+}
+/*  7. Work Section 
+============================ */
+.mask2 h4{
+    font-size: 13px;
+    margin-top: 30px;
+    color: #000;
+    transition: all 0.4s ease 0s;
+}
+.project-filter ul li {
+    font-size: 11px;
+}
+/*   8. Impressed Section                
+============================ */
+section.impres h3 {
+    font-size: 30px;
+}
+/* 9. Content Section 
+============================ */
+.content-section {
+    padding-bottom:0px;
+}
+.content-section h4 {
+    margin: -4px 0px;
+}
+.cont-left h2 {
+    font-size: 40px;
+}
+.content-section p {
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+.carousel-inner > .item > img {
+    height: 243px;
+}
+.content-slider .col-md-6 iframe {
+    width: 345px;
+    height: 243px;
+}
+
+
+/* 10. Team Section
+============================ */
+.member .info {
+    height: 100%;
+}
+.member .img img{
+  height: 200px;
+}
+.member .info h6 {
+    font-size: 15px;
+	margin-top: 12px;
+}
+.member .info h6 small {
+    margin-top: 8px;
+}
+.member .info p {
+    line-height: 17px;
+    padding: 0px 6px;
+}
+.member:hover .info p {
+    margin-top: -26px;
+}
+.member .info i {
+    width: 1.65em;
+    height: 1.65em;
+    line-height: 1.65em;
+    font-size: 1em;
+}
+
+
+/* 11. Infosection Section 
+============================ */
+.infobig {
+    font-size: 80px;
+}
+
+/* 12. Testimonial Section              
+============================ */
+.testimonial-left {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.testimonial-box {
+    padding: 0px 36px;
+}
+.testimonial-content {
+    margin-top: -66px;
+}
+.testimonial-box {
+    margin-top: 93px;
+}
+.carousel-inner > .item > img{
+    width: 100%;
+    height: auto;
+}
+/*  15. Blog Section               
+============================ */
+.blog-section .video-post iframe {
+    width: 100%;
+    height: 124px;
+}
+.input-group-btn {
+    left: -28px;
+}
+/* 18. Footer Section             
+============================ */
+.widget form {
+    width: 44%;
+}
+.subscribe-text {
+    top: 64.99%;
+    right: 471px;
+}
+footer .widget {
+    background: none;
+    min-height: 0px;
+    margin-bottom: 70px;
+}
+.subscribe-text {
+    top: 64.99%;
+	right: 452px;
+ 
+}
+.copyright {
+    margin-top:0px;
+}
+/*-----------------------------
+    20. Single Work  Page
+-------------------------------*/
+.portfolioitem img {
+    height: 395px;
+}
+}
+/*                          Phone
+=======================================================================================*/
+@media only screen and (max-width: 767px){
+	
+h3 {
+    font-size: 27px;
+}	
+
+/*     2. Header Section                
+============================ */
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+	border-color: transparent;
+}
+.navbar-default .navbar-toggle:hover .icon-bar {
+    background-color: #ddd;
+}
+.navbar .navbar-nav {
+    margin-left: -15px;
+}
+.ban1_txt h3 {
+    margin: 57px 0px 9px;
+    font-size: 63px;
+    line-height: 50px;
+}
+.ban1_txt h2 {
+    line-height: 25px;
+    margin: -10px 0px -44px;
+    color: #FFF;
+    font-size: 23px;
+	letter-spacing: 7px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+	border-bottom: 2px solid transparent;
+	padding: 12px 0px;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #B89841;
+    background-color: transparent;
+    border-bottom: 2px solid transparent;
+}
+ 
+.top-nav-collapse .navbar-nav > li > a.current {
+    color: #B89841;
+    border-bottom: 2px solid transparent;
+}
+.header-right{
+    display:none;
+}
+.navbar-header {
+    background: transparent;
+}
+/*     3. About Section                 
+============================ */
+.about-left {
+    margin-top: 92px;
+    padding-right: 0px;
+}
+.about-right {
+    width: 100%;
+}
+.about-right img {
+    margin-top: 35px;
+    margin-left: 0px;
+    width: 100%;
+}
+.about-right .about-img_2 {
+    margin-left: 0px;
+}
+.about-left h3 {
+    letter-spacing: 2px;
+    text-align: right;
+	font-size: 25px;
+}
+/*  4. How Work Section 
+============================ */
+.bhoechie-tab {
+    margin-left:0;
+}
+div.bhoechie-tab-menu {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+ 
+.bhoechie-tab-content {
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 90px;
+	margin-bottom:0px;
+}
+.how-box {
+    padding: 86px 13px;
+}
+.how-box p {
+    text-align: left;
+}
+.how-box h2 {
+    font-size: 25px;
+}
+
+/*  5. Choose us Section
+============================ */
+.choose-us {
+    padding-bottom: 100px;
+}
+.text-riht {
+	text-align: left;
+    margin-bottom: 30px;
+	margin-top: -60px;
+}
+.choose-us .btn-chos {
+    margin-top: 50px;
+}
+
+
+/*  6. Achieve Section
+============================ */
+.achieve-header h2 {
+    font-size: 32px;
+}
+
+/*  7. Work Section 
+============================ */
+.project-filter ul li {
+    display: inline-block;
+    margin-right: 15px;
+	border-bottom: 0px solid #B89841;
+}
+.project-filter {
+    margin-top: 0px;
+}
+.mask-big h4 {
+    margin-top: 67px;
+} 
+.work-item {
+    margin-left:0px;
+}
+.items img {
+    width: 100%;
+}
+/*  8. Impressed Section
+============================ */
+section.impres h3 {
+    color: #B89841;
+    font-size: 42px;
+}
+
+
+/*  9. Content Section
+============================ */
+.content-section {
+    padding-top: 60px;
+	padding-bottom: 20px;
+}
+.cont-left .btn-chos {
+    margin-bottom: 20px;
+    margin-top: -23px;
+}
+.content-slider .col-md-6 iframe {
+    width: 100%;
+	height: 216px;
+	margin-bottom: 20px;
+}
+
+
+/*  11. Infosection Sectionn
+================================ */
+.infobig {
+    font-size: 60px;
+	margin-bottom: 30px;
+	line-height: 61px;
+}
+.info-r {
+    font-size: 19px;
+    line-height: 30px;
+}
+/* 10. Team Section
+============================ */
+.member .info {
+    height: 100%;
+	width:100%
+}
+.member {
+    margin-top: 15px;
+}
+/* 12. Testimonial Section              
+============================ */
+.testimonial-content h2 {
+    font-size: 23px;
+}
+.testimonial-section {
+    padding-bottom: 60px;
+}
+.testimonial-left {
+    padding-right: 26px;
+    padding-left: 26px;
+}
+.testimonial-section .row {
+    margin-left: 0px;
+}
+.testimonial-content {
+    padding: 50px 23px;
+    margin-top:-47px;
+}
+.testimonial-box {
+    padding:0px;
+    margin-top: 70px;
+    width: 100%;
+}
+/*  13. Pricing Section                
+============================ */
+.pricing-box{
+	margin-bottom: 15px;
+}
+
+/*  15. Blog Section               
+============================ */
+.blog-section .video-post iframe {
+    width: 100%;
+    height: 230px;
+}
+.blog-post .entry-content p {
+    margin-bottom: 70px;
+}
+ 
+.blog-post .btn-chos {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.entry-header h2 {
+    font-size: 16px;
+}
+.blog-foot {
+    margin-bottom: 100px;
+}
+
+.contact {
+    margin-top: -100px;
+}
+.cont-details i {
+    padding-right: 4px !important;
+}
+.cont-details  p {
+    font-size: 14px;
+}
+/*  18. Footer Section               
+============================ */
+.footer-links a {
+    float: left;
+    margin: 0px 12px;
+}
+
+/*============================
+  19. Blog page
+============================ */
+.input-group-btn {
+    left: 0px;
+}
+ 
+.blog-post-list .post-meta a {
+    padding-right: 0px;
+    padding-left:0px;
+}
+.blog-post-list .entry-content, .blog-post-list .entry-title, .blog-post-list .entry-meta {
+    padding-left: 48px;
+}
+.blog-area .pager li {
+    padding: 0px 12px;
+}
+.author-data .author-img {
+    width: 70px;
+    height: 70px;
+}
+.author-data strong.author-title {
+    margin-left: 12px;
+}
+.author-data p {
+    margin-left: 82px;
+}
+.comments li .comment strong.commenter-title {
+    margin-left: 62px;
+}
+.comments li .comment span.comment-date {
+    margin-left: 62px;
+	margin-top: 4px;
+}
+.comments li .comment span.comment-reply {
+    right: 15px;
+    top: 62px;
+}
+.comments li .comment p {
+    margin-top: 49px;
+}
+
+
+/*-----------------------------
+    20. Single Work  Page
+-------------------------------*/
+.portfolioitem img {
+    height: 395px;
+}
+.portfolioitem {
+    padding-bottom:0px;
+}
+ }
+ 
+ /* Mobile Vertical Layout: 488px 
+===============================================================================*/
+@media only screen and (min-width: 488px) and (max-width: 767px){
+
+/*     2. Header Section                
+============================ */
+.header-nav.navbar-home .navbar-header .navbar-toggle {
+    margin-top: 16px;
+    border-color: transparent;
+}
+.ban1_txt p {
+    padding-right: 227px;
+}
+.header-right{
+    display:none;
+}
+
+
+/*  4. How Work Section 
+============================ */
+.bhoechie-tab {
+    margin-left:0;
+}
+div.bhoechie-tab-menu {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.bhoechie-tab-content {
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 133px;
+}
+
+/* 5. Choose us Section
+============================ */
+section.impres h3 {
+    font-size: 56px;
+}
+.text-riht small {
+    display: block;
+    margin-top: 5px;
+}
+
+/*  6. Achieve Section
+============================ */
+.achieve-header h2 {
+    font-size: 45px;
+}
+
+/*  7. Work Section 
+============================ */
+.work-item:hover .mask2 {
+    border: none;
+}
+.work-item {
+    margin-left:0px;
+}
+ 
+.mask2 h4 {
+    margin-top: 137px;
+}
+.project-filter {
+    margin-bottom: 16px;
+}
+
+/*  8. Impressed Section
+============================ */
+section.impres h3 {
+    font-size: 56px;
+}
+section.impres small {
+    display: block;
+    margin-top: 23px;
+}
+
+/*  9. Content Section 
+============================ */
+.content-section {
+    padding-top: 100px;
+}
+section.content-one {
+    padding-top: 40px;
+}
+.content-slider .col-md-6 iframe {
+    width: 100%;
+    height: 308px;
+}
+.cont-left h2 {
+    margin-top: 20px;
+}
+
+/* 10. Team Section
+============================ */
+.member {
+    margin-top: 15px;
+}
+.member:hover .info {
+    padding-top: 110px;
+}
+/* 12. Testimonial Section              
+============================ */
+.client-say {
+    margin-top: 15px;
+}
+.testimonial-left {
+    padding-right: 90px;
+    padding-left: 90px;
+}
+.testimonial-section .row {
+    margin-left: 0px;
+}
+
+.testimonial-content {
+    padding: 50px 23px;
+    margin-top: -10px;
+}
+.testimonial-box {
+    padding:0px;
+    margin-top: 70px;
+}
+.owl-theme .owl-controls {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*  13. Pricing Section                
+============================ */
+.pricing-box{
+	margin-bottom: 15px;
+}
+.pricing-section .col-md-4 {
+    padding: 0px 86px;
+}
+
+
+/*  15. Blog Section               
+============================ */
+.blog-post .carousel-control {
+    top: 50%;
+}
+.blog-section .video-post iframe {
+    width: 100%;
+	height: 308px;
+}
+.input-group-btn {
+    left: 0px;
+}
+.instagram-photo-list li {
+    width: 25%;
+}
+.widget-instagram img {
+    width: 100%;
+}
+/*  18. Footer Section               
+============================ */
+footer .widget {
+    background:none;
+    min-height: 136px;
+    margin-bottom:0px;
+    width: 290px;
+}
+.widget form {
+    width: 100%;
+}
+.widget .form-control {
+    width: 166px;
+}
+.subscribe-text {
+    top: 64.99%;
+    left: 195px;
+}
+.copyright {
+    margin-top:0px;
+}
+ }

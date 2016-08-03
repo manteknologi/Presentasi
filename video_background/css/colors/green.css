@@ -1,0 +1,191 @@
+/* ==========================================================================
+   Green Color styles
+========================================================================== */
+
+.navbar-nav > li > a.current {
+    color: #00BFA5;
+}
+.top-nav-collapse .navbar-nav > li > a.current {
+    color: #00BFA5;
+}
+.top-nav-collapse .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:hover, .top-nav-collapse .navbar-nav > li > a.current:focus {
+    color: #00BFA5;
+}
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: #00BFA5;
+}
+
+.ban1_txt h3 {
+  color: #00BFA5;
+}
+
+
+.about-left small {
+    color: #00BFA5;
+}
+.about-more a {
+    color: #00BFA5;
+}
+
+
+
+.hvr-shutter-in-horizontal::before {
+    border-top: 1px solid #00BFA5;
+    border-bottom: 1px solid #00BFA5;
+}
+header .hvr-shutter-in-horizontal::before {
+    border-top: 1px solid rgba(255, 255, 255, 0.73);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.73);
+}
+
+
+.list-group-item i {
+    color: #00BFA5;
+}
+.how-box h2 {
+    color: #03E6C7;
+}
+
+
+.text-riht small {
+    color: #00BFA5;
+}
+
+
+.achieve-header small {
+    color: #00BFA5;
+}
+.achieve-section .col-md-3 i {
+    color: #00BFA5;
+}
+
+
+.base-header small {
+    color: #00BFA5;
+}
+.project-filter ul li.active {
+    color: #00BFA5;
+    border-bottom: 2px solid #00BFA5;
+}
+.project-filter ul li:hover {
+  color: #00BFA5;
+}
+
+.project_menu .hvr-underline-from-center::before {
+    background: #00BFA5;
+}
+.mask2 p {
+    color: #00BFA5;
+}
+.mask2 i {
+    color: #00BFA5;
+}
+.work-item:hover .mask2 {
+    border: 1px solid #00BFA5;
+}
+
+section.impres h3 {
+    color: #00BFA5;
+}
+
+
+.cont-left span {
+    color: #00BFA5;
+}
+
+
+.base-header small {
+    color: #00BFA5;
+}
+.member .info {
+    border: 1px solid #00BFA5;
+}
+.member .info h6 small {
+    color: #00BFA5;
+} 
+.member .info .social i {
+    color: #00BFA5;
+}
+.social ul li a:hover i, .social li:hover i {
+    -webkit-box-shadow: inset 0 0 0 .15em #00BFA5;
+    -moz-box-shadow: inset 0 0 0 .15em #00BFA5;
+    -ms-box-shadow: inset 0 0 0 .15em #00BFA5;
+    -o-box-shadow: inset 0 0 0 .15em #00BFA5;
+    box-shadow: inset 0 0 0 .15em #00BFA5;
+}
+
+.infosection .infobig span {
+    color: #00BFA5;
+}
+
+
+.testimonial-content h2 {
+    color: #00BFA5;
+}
+ 
+.testimonial-box span {
+    color: #00BFA5;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page.active span {
+    background: #00BFA5;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page:hover span {
+    background: #00BFA5;
+}
+
+
+
+.client-box:hover {
+    border-color: #00BFA5;
+}
+
+
+
+.achieve-header small {
+    color: #00BFA5;
+}
+.btn-chos:hover, .btn-chos:active, .btn-chos:focus {
+    border-top: 1px solid #00BFA5 !important;
+    border-bottom: 1px solid #00BFA5 !important;
+}
+
+
+.contact .form-group input, .contact .form-group textarea {
+    border-color: #00BFA5;
+}
+.contact .form-control:focus {
+    border-color: #00BFA5;
+}
+.cont-details i {
+    color: #00BFA5;
+    font-size: 15px;
+    padding-right: 15px;
+}
+.icon {
+    color: #00BFA5;
+}
+.social_footer a {
+    color: #00BFA5;
+}
+.text-primary {
+    color: #00BFA5;
+}
+.footer-links a {
+    color: #00BFA5;
+}
+
+
+.blog-header h3 {
+    color: #00BFA5;
+	border-top: 3px solid #00BFA5;
+    border-bottom: 3px solid #00BFA5;
+}
+.blog-post-list .post-meta i {
+    color: #00BFA5;
+}
+.blog-area .pager li > a {
+    color: #00BFA5;
+}
+.blog-post-list .post-meta span {
+    color: #00BFA5;
+}
